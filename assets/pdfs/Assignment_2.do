@@ -1436,8 +1436,3 @@ scalar naive_hs_2018 = r(sum)
 
 save "decomposition_naive_2018.dta", replace
 
-
-
-
-
-

@@ -826,18 +826,3 @@ display residvar2018 / totalvar2018
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
